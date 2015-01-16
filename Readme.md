@@ -13,7 +13,7 @@ The goals of this exercise are going depper on the DOM manipulation and the user
 
 
 ### Jasmine matchers:
-
+Jasmine documentation:[http://jasmine.github.io/2.0/introduction.html]
 The Jasmine testing framework from Pivotal Labs comes with this default set of matchers:
 
 - expect(fn).toThrow(e);
