@@ -4,7 +4,7 @@ This repo is about creating my own library to manipulate the DOM.
 
 Basically replicating the most frecuently used jQuery methods coding in vanilla javascript and using jasmine for the unit tests.
 
-The goals of this exercise are going depper on the DOM manipulation and the user of best practices and patterns to build a library to manipulate the DOM from scratch.
+The goals of this exercise are going depper on the DOM manipulation and the user of best practices and patterns to build from zero a library to manipulate the DOM.
 
 
 
